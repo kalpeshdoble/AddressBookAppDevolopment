@@ -1,5 +1,4 @@
-package com.example.UC3_AddressBookApp.models;
-
+package com.example.UC4_AddressBookApp.models;
 
 
 public class AddressBookDTO {

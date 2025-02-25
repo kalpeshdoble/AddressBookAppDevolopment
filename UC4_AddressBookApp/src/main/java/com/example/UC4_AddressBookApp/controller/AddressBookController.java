@@ -1,8 +1,7 @@
-package com.example.UC3_AddressBookApp.controller;
+package com.example.UC4_AddressBookApp.controller;
 
-
-import com.example.UC3_AddressBookApp.service.AddressBookService;
-import com.example.UC3_AddressBookApp.models.AddressBookDTO;
+import com.example.UC4_AddressBookApp.models.AddressBookDTO;
+import com.example.UC4_AddressBookApp.service.AddressBookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
