@@ -1,7 +1,7 @@
-package com.example.UC3_AddressBookApp.repository;
+package com.example.UC4_AddressBookApp.repository;
 
 
-import com.example.UC3_AddressBookApp.models.AddressBook;
+import com.example.UC4_AddressBookApp.models.AddressBook;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

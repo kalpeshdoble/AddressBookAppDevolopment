@@ -1,9 +1,9 @@
-package com.example.UC3_AddressBookApp.service;
+package com.example.UC4_AddressBookApp.service;
 
 
-import com.example.UC3_AddressBookApp.models.AddressBook;
-import com.example.UC3_AddressBookApp.models.AddressBookDTO;
-import com.example.UC3_AddressBookApp.repository.AddressBookRepository;
+import com.example.UC4_AddressBookApp.models.AddressBook;
+import com.example.UC4_AddressBookApp.models.AddressBookDTO;
+import com.example.UC4_AddressBookApp.repository.AddressBookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
